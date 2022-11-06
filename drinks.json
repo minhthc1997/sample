@@ -7,5 +7,6 @@
     { "id": "3", "title": "The Matrix", "releaseYear": "1999", "cost": "120.000" },
     { "id": "4", "title": "Inception", "releaseYear": "2010", "cost": "120.000" },
     { "id": "5", "title": "Interstellar", "releaseYear": "2014", "cost": "120.000" }
+    { "id": "6", "title": "Interstellar", "releaseYear": "2014", "cost": "120.000" }
   ]
 }
