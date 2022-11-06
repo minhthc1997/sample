@@ -1,6 +1,6 @@
 {
   "products": [
-    { "id": "1", "title": "Star Wars", "cost": "1977" },
+    { "id": "1", "title": "Star Wars", "releaseYear": "1977" },
     { "id": "2", "title": "Back to the Future", "cost": "1985" },
     { "id": "3", "title": "The Matrix", "cost": "1999" },
     { "id": "4", "title": "Inception", "cost": "2010" },
