@@ -1,9 +1,9 @@
 {
   "products": [
-    { "id": "1", "title": "Star Wars", "releaseYear": "1977", "cost": "120.000" },
-    { "id": "2", "title": "Back to the Future", "releaseYear": "1985", "cost": "120.000" },
-    { "id": "3", "title": "The Matrix", "releaseYear": "1999", "cost": "120.000" },
-    { "id": "4", "title": "Inception", "releaseYear": "2010", "cost": "120.000" },
-    { "id": "5", "title": "Interstellar", "releaseYear": "2014", "cost": "120.000" }
+    { "id": "1", "title": "Trà Lipton", "Images": "https://tandoorvietnam.com/wp-content/uploads/2020/06/lipton-Tea.jpg", "cost": "40.000" },
+    { "id": "2", "title": "Matcha", "Images": "https://www.napoli.vn/Document/Images/matcha_ice_blended_master.jpg", "cost": "30.000" },
+    { "id": "3", "title": "Trà sữa dâu", "Images": "https://bizweb.dktcdn.net/100/314/104/articles/fff.png?v=1599899697257", "cost": "35.000" },
+    { "id": "4", "title": "Trà sữa bạc hà", "Images": "https://jarvis.vn/wp-content/uploads/2019/05/cach-pha-che-tra-sua-bac-ha.jpg", "cost": "40.000" },
+    { "id": "5", "title": "Nước Chanh", "Images": "https://vinmec-prod.s3.amazonaws.com/images/20210314_090326_726577_nuoc-chanh-dieu-tri-t.max-800x800.jpg", "cost": "20.000" }
   ]
 }
